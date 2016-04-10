@@ -2,7 +2,7 @@
   "name": "botdemo",
   "version": "1.0.0",
   "description": "Sample Bot Demo on Microsoft Bot Framework",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
